@@ -1,14 +1,26 @@
-layout_spectrum: 0.6843459
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.4137485
-  lightness: 0.3098094
-  brandStrength: 0.8626038
+  saturation: 0.4937343
+  brandStrength: 0.790112
+  lightness: 0.2286967
   brandColors:
+    - '#110708'
     - '#FFFFFF'
-    - '#000000'
-    - '#2C2C2C'
-    - '#565656'
-    - '#A1A1A1'
-  rhythmicContrast: 0.8252006
-typography_spectrum: 0.9998997
+    - '#FF082B'
+    - '#B1C3F3'
+    - '#5E4E42'
+  rhythmicContrast: 0.6610276
+typography_spectrum: 0.8675373
+layout_spectrum: 0.900653
 name: ClassicalBye

@@ -1,0 +1,14 @@
+layout_spectrum: 0.8866605
+color:
+  saturation: 0.4137485
+  lightness: 0.3098094
+  brandStrength: 0.8626038
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#2C2C2C'
+    - '#565656'
+    - '#A1A1A1'
+  rhythmicContrast: 0.8252006
+typography_spectrum: 0.8675373
+name: ClassicalBye

@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.4937343
-  brandStrength: 0.790112
-  lightness: 0.2286967
-  brandColors:
-    - '#110708'
-    - '#FFFFFF'
-    - '#FF082B'
-    - '#B1C3F3'
-    - '#5E4E42'
-  rhythmicContrast: 0.6610276
 typography_spectrum: 0.8675373
+color:
+  saturation: 0.664787
+  brandStrength: 0.7731829
+  lightness: 0.3107769
+  brandColors:
+    - '#070707'
+    - '#302F2B'
+    - '#FFFFFF'
+    - '#7B7873'
+    - '#AEA79D'
+  rhythmicContrast: 0.8295739
 layout_spectrum: 0.900653
 name: ClassicalBye
